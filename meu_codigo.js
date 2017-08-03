@@ -1,1 +1,1 @@
-alert("Teste 2.0")
+alert("Teste")
